@@ -1,0 +1,23 @@
+{
+  "name": "arrow-function",
+  "version": "1.0.0",
+  "description": "To use this repository: - Click the \"Use this template\" button in the upper right - Choose a name for your repository and create it - In your own repository, click the green \"Gitpod\" button",
+  "main": "arrow-functions.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mipear/arrow-function.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mipear/arrow-function/issues"
+  },
+  "homepage": "https://github.com/mipear/arrow-function#readme",
+  "devDependencies": {
+    "jest": "^29.6.4",
+    "jest-environment-jsdom": "^29.6.4"
+  }
+}
